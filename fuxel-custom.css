@@ -1,0 +1,29 @@
+.chat-msg-Mirschi .username {
+    color: #2AD575;
+}
+.chat-msg-Mirschi_ipad .username {
+    color: #2AD575;
+}
+.chat-msg-Pierrsen .username {
+    color: #FF4504;
+}
+.chat-msg-janinoni .username {
+    color: inherit;
+    background-image: repeating-linear-gradient(160deg, rgb(254, 240, 134) 0%, rgb(255, 102, 212) 15%, rgb(132, 124, 254) 20%, rgb(245, 245, 245) 33%);
+    background-size: 100% 100%;
+    filter: drop-shadow(rgb(36, 80, 255) 0px 0px 0.1px);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.chat-msg-exnfachjan_neu .username {
+  color: inherit;
+  background-image: url("https://cdn.7tv.app/paint/01JEY00EDNVW20AWX2NPG4HTNF/layer/01JEY41GFMEX7R8YCVMDA8SSY6/1x.webp");
+  background-size: 100% 100%;
+  filter: drop-shadow(rgb(26, 113, 255) 0px 0px 0.1px);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: colorShift 5s linear infinite;
+}
+
