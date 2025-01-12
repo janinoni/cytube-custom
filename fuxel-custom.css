@@ -1,29 +1,173 @@
-.chat-msg-Mirschi .username {
-    color: #ffffff;
-}
-.chat-msg-Mirschi_ipad .username {
-    color: #2AD575;
-}
-.chat-msg-Pierrsen .username {
-    color: #FF4504;
-}
-.chat-msg-janinoni .username {
-    color: inherit;
-    background-image: repeating-linear-gradient(160deg, rgb(254, 240, 134) 0%, rgb(255, 102, 212) 15%, rgb(132, 124, 254) 20%, rgb(245, 245, 245) 33%);
+.chat-msg-janinoni {
+    background-image: url("https://cdn.7tv.app/paint/01J5K5Y85000026B027ATG06TR/layer/01JAMR3873HAYY01X3QEPFMVVS/1x.webp");
     background-size: 100% 100%;
-    filter: drop-shadow(rgb(36, 80, 255) 0px 0px 0.1px);
+    background-clip: text;
+    -webkit-background-clip: text;
+    filter: drop-shadow(rgb(255, 218, 194) 0px 0px 0.1px) drop-shadow(rgb(168, 76, 0) 1px 1px 0.1px);
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+}
+.chat-msg-janinoni > span:not(.timestamp):not(.userlist_owner),
+.chat-msg-janinoni .username {
+    opacity: 1;
+    background: none; 
+}
+.chat-msg-jani_handy .username {
+    opacity: 1;
+    background-image: url("https://cdn.7tv.app/paint/01J5K5Y85000026B027ATG06TR/layer/01JAMR3873HAYY01X3QEPFMVVS/1x.webp");
+    background-size: 100% 100%;
+    filter: drop-shadow(rgb(255, 218, 194) 0px 0px 0.1px) drop-shadow(rgb(168, 76, 0) 1px 1px 0.1px);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-.chat-msg-exnfachjan_neu .username {
-  color: inherit;
-  background-image: url("https://cdn.7tv.app/paint/01JEY00EDNVW20AWX2NPG4HTNF/layer/01JEY41GFMEX7R8YCVMDA8SSY6/1x.webp");
-  background-size: 100% 100%;
-  filter: drop-shadow(rgb(26, 113, 255) 0px 0px 0.1px);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: colorShift 5s linear infinite;
+.chat-msg-jani_handy > span:not(.timestamp):not(.userlist_owner),
+.chat-msg-jani_handy .username {
+    opacity: 1;
+    background: none; 
 }
 
+
+/* ################################################ */
+
+
+.chat-msg-Mirschi .username {
+    color: #2AD575;
+}
+.chat-msg-Mirschi_ipad .username {
+    color: #2AD575;
+}
+.chat-msg-exnfachjan_neu .username {
+    color: inherit;
+    background-image: url("https://cdn.7tv.app/paint/01JEY00EDNVW20AWX2NPG4HTNF/layer/01JEY41GFMEX7R8YCVMDA8SSY6/1x.webp");
+    background-size: 100% 100%;
+    filter: drop-shadow(rgb(26, 113, 255) 0px 0px 0.1px);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: colorShift 5s linear infinite;
+}
+.chat-msg-oliderbaer .username {
+    opacity: 1;
+    background-image: url("https://cdn.7tv.app/paint/01JD3VHN1X81KGCV48WQSYC0GQ/layer/01JFNQTNP8C9VREPR7Z77KM20Z/1x.webp");
+    background-size: 100% 100%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(rgb(0, 184, 235) 0px 0px 0.1px) drop-shadow(rgb(0, 147, 184) 0px 0px 4px);
+}
+.chat-msg-Eddivox .username {
+    opacity: 1;
+    background-image: linear-gradient(135deg, rgb(128, 0, 0) 20%, rgb(143, 0, 0) 25%, rgb(255, 0, 0) 50%, rgb(143, 0, 0) 75%, rgb(128, 0, 0) 80%);
+    background-size: 100% 100%;
+    filter: drop-shadow(rgb(245, 0, 0) 0px 0px 0.1px) drop-shadow(rgb(66, 0, 0) 1px 1px 0.1px);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.chat-msg-Craftingcat99 .username {
+    color: #823400;
+}
+.chat-msg-thefortune94 .username {
+    opacity: 1;
+    background-image: url("https://cdn.7tv.app/paint/01GEB9RZNG0006MCY6R6BPTMGH/layer/01JAMR1TE5VR77TME3YQDFNAVR/1x.webp");
+    background-size: 100% 100%;
+    filter: drop-shadow(rgb(13, 13, 13) 0.5px 0.5px 0.5px) drop-shadow(rgb(13, 13, 13) -0.5px -0.5px 0.5px) drop-shadow(rgb(13, 13, 13) -0.5px 1px 0.5px) drop-shadow(rgb(13, 13, 13) 1px -0.5px 0.5px) drop-shadow(rgb(66, 56, 0) 0px 0px 1px);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.chat-msg-Lonimo .username {
+    opacity: 1;
+    background-image: linear-gradient(0deg, rgb(243, 48, 149) 20%, rgb(255, 199, 241) 70%);
+    background-size: 100% 100%;
+    filter: drop-shadow(rgb(255, 158, 208) 0px 0px 0.1px);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.chat-msg-Pierrsen .username {
+    opacity: 1;
+    background-image: linear-gradient(90deg, rgb(3, 0, 46) 15%, rgb(17, 9, 129) 50%, rgb(55, 28, 105) 81%);
+    background-size: 100% 100%;
+    filter: drop-shadow(rgb(209, 227, 255) 0px 0px 3px);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.chat-msg-MOSTwholesome .username {
+    opacity: 1;
+    background-image: linear-gradient(90deg, rgb(208, 78, 78) 0%, rgb(151, 88, 202) 18%, rgb(73, 113, 208) 34%, rgb(0, 255, 251) 54%, rgb(0, 255, 4) 70%, rgb(251, 255, 0) 87%, rgb(255, 115, 0) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(rgb(255, 0, 0) 0px 0px 1px) drop-shadow(rgb(251, 0, 255) 0px 0px 1px) drop-shadow(rgb(43, 0, 255) 0px 0px 1px) drop-shadow(rgb(0, 255, 238) 0px 0px 1px) drop-shadow(rgb(0, 255, 51) 0px 0px 1px) drop-shadow(rgb(200, 255, 0) 0px 0px 1px) drop-shadow(rgb(255, 123, 0) 0px 0px 1px) drop-shadow(rgb(255, 0, 0) 0px 0px 1px);
+}
+.chat-msg-MrShadow_05 .username {
+    opacity: 1;
+    background-image: radial-gradient(circle, rgb(255, 255, 255) 0%, rgb(0, 191, 255) 25%, rgb(61, 181, 255) 30%, rgb(0, 204, 255) 40%, rgb(56, 179, 255) 50%, rgb(0, 145, 255) 60%, rgb(255, 255, 255) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(rgb(0, 132, 255) 0px 0px 4px) drop-shadow(rgb(0, 63, 122) 0px 0px 0.1px);
+}
+.chat-msg-samuli100 .username {
+    opacity: 1;
+    background-image: url("https://cdn.7tv.app/paint/01HVWPDQD000088VR62N1D9Z22/layer/01JAMR2HMMV43VAXW6N1M4HQSX/1x.webp");
+    filter: drop-shadow(rgb(242, 0, 6) 0px 0px 1px) drop-shadow(rgb(255, 36, 250) 0px 0px 1px) drop-shadow(rgb(4, 30, 255) 0px 0px 1px) drop-shadow(rgb(6, 193, 255) 0px 0px 1px) drop-shadow(rgb(29, 255, 23) 0px 0px 1px) drop-shadow(rgb(163, 210, 0) 0px 0px 1px) drop-shadow(rgb(255, 145, 21) 0px 0px 1px) drop-shadow(rgb(255, 32, 32) 0px 0px 1px);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.chat-msg-hngPrisma .username {
+    opacity: 1;
+    background-image: linear-gradient(135deg, rgb(0, 112, 69) 20%, rgb(0, 209, 129) 35%, rgb(122, 255, 204) 50%, rgb(0, 209, 129) 65%, rgb(0, 112, 69) 80%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.chat-msg-Lexley .username {
+    color: #3e9af6;
+}
+.chat-msg-Wordexe .username {
+    opacity: 1;
+    background-image: linear-gradient(135deg, rgb(25, 91, 112) 0%, rgb(46, 255, 192) 40%, rgb(255, 255, 255) 50%, rgb(53, 223, 255) 60%, rgb(2, 122, 154) 100%);
+    background-size: 100% 100%;
+    filter: drop-shadow(rgb(10, 178, 159) 0px 0px 3px) drop-shadow(rgb(2, 122, 154) 0px 0px 0.1px);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.chat-msg-Oli_Handy .username {
+    opacity: 1;
+    background-image: url("https://cdn.7tv.app/paint/01JD3VHN1X81KGCV48WQSYC0GQ/layer/01JFNQTNP8C9VREPR7Z77KM20Z/1x.webp");
+    background-size: 100% 100%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: drop-shadow(rgb(0, 184, 235) 0px 0px 0.1px) drop-shadow(rgb(0, 147, 184) 0px 0px 4px);
+}
+.chat-msg-TrinoxDE .username {
+    opacity: 1;
+    background-image: repeating-linear-gradient(135deg, rgb(255, 255, 255) 0%, rgb(128, 255, 153) 18%, rgb(56, 255, 169) 25%, rgb(77, 254, 219) 43%);
+    background-size: 100% 100%;
+    filter: drop-shadow(rgb(0, 64, 92) 0px 0px 0.1px) drop-shadow(rgb(0, 179, 255) 0px 0px 4px);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.chat-msg-Wholesome_Handsome .username {
+    opacity: 1;
+    background-image: repeating-radial-gradient(circle, rgb(255, 255, 255) 17%, rgb(255, 255, 255) 19%, rgb(255, 184, 215) 34%);
+    background-size: 100% 100%;
+    filter: drop-shadow(rgb(255, 184, 242) 0px 0px 1px) 
+            drop-shadow(rgb(254, 144, 144) 1px 1px 0.5px) 
+            drop-shadow(rgb(106, 36, 36) 0.5px 0.5px 0.5px) 
+            drop-shadow(rgb(255, 148, 226) 0.5px 0.5px 0.3px);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.chat-msg-xDopeHunter .username {
+  background-image: url("https://cdn.7tv.app/paint/01JFQV4G27ND0S36CW9GKQ1B61/layer/01JFT792WRS0SAC9K5WNH2XC04/1x.webp");
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+  opacity: 1;
+}
